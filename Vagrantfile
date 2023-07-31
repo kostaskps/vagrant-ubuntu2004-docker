@@ -4,7 +4,7 @@
 
 ENV['VAGRANT_NO_PARALLEL'] = 'yes'
 VAGRANT_BOX         = "generic/ubuntu2004"
-VAGRANT_BOX_VERSION = "3.3.0"
+VAGRANT_BOX_VERSION = "4.2.16"
 NODE_CPUS           = 3
 NODE_RAM            = 1536
 
