@@ -23,7 +23,7 @@ apt update && apt install -y docker-ce docker-compose
 
 # Update hosts file
 echo .
-echo "[TASK 8] Update /etc/hosts file"
+echo "[TASK 5] Update /etc/hosts file"
 cat >>/etc/hosts<<EOF
 172.18.18.200   ansible
 EOF
